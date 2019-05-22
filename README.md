@@ -14,10 +14,9 @@ You will roll lucky 7's and connect to nearly any kind of FPC/flex cable with La
 Connect to those pesky 0.5mm pitch connectors that you may run across with an FPC stick. We designed this for use in house, to quickly connect to 50pin 0.5mm pitch flex cables we need to test. But we also thought it might be useful for our customers. There's a 50-pin long connector on top, and we have one very long 'mechanical' pad. Since the pad extends along the entire length you can use any size 0.5mm pitch connector you wish, we seem to bump into 40 and 50 pin the most. Each pad is broken out to a 25-pin long 0.1"x0.1" spaced header. One side is doubled on the opposite side to make it bread-board friendly. It can accommodate most ZIF and snap connectors and will make prototyping much easier on you!
 
 For more details, check out the product pages at
-
-    * http://www.adafruit.com/products/1325
-    * http://www.adafruit.com/products/1436
-    * http://www.adafruit.com/products/1492
+- http://www.adafruit.com/products/1325
+- http://www.adafruit.com/products/1436
+- http://www.adafruit.com/products/1492
 
 PCB files for Adafruit FPC SMT Adapter Breakout Boards. The format is EagleCAD schematic and board layout
 
